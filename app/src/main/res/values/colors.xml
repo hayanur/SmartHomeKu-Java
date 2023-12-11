@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card">#C6C4C4</color>
+    <color name="colorPrimary">#62A4F1</color>
+    <color name="colorPrimaryDark">#3E72AF</color>
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+    <style name="HomeTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">#62A4F1</item>
+    </style>
+        <style name="LoginTheme" parent="Theme.AppCompat.NoActionBar">
+            <item name="android:statusBarColor">#62A4F1</item>
+        </style>
+</resources>
